@@ -1,0 +1,29 @@
+
+.blog-pagination ul li.active span, .blog-pagination ul li:hover {
+    background: #fd3d0c;
+    color: #ffffff;
+}
+
+.blog-pagination ul li span {
+    color: #777777;
+}
+.blog-pagination ul li:hover span {
+    color: #ffffff;
+}
+.addcart span{
+    color: #ffffff;
+}
+.tsanpham{
+    color: #0b0b0b;
+    font-weight: bold;
+}
+.tsanpham:hover{
+    color:#fd3d0c;
+}
+.acart{
+    color:#ffffff;
+    font-weight: bold;
+}
+.sec-btn:hover a{
+    color:#ffffff;
+}
